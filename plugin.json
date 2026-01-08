@@ -1,0 +1,19 @@
+{
+    "name": "Play Counter",
+    "version": "1.0.0",
+    "author": "Audion Team",
+    "description": "Tracks how many times each song has been played",
+    "type": "js",
+    "entry": "index.js",
+    "permissions": [
+        "player:read",
+        "storage:local"
+    ],
+    "category": "library",
+    "tags": [
+        "stats",
+        "play-count",
+        "analytics"
+    ],
+    "license": "MIT"
+}
