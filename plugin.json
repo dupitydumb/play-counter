@@ -7,7 +7,8 @@
     "entry": "index.js",
     "permissions": [
         "player:read",
-        "storage:local"
+        "storage:local",
+        "ui:inject"
     ],
     "category": "library",
     "tags": [
